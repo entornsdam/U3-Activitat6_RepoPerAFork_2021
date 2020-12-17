@@ -27,7 +27,8 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 #### AlumneFila1PC1: 
 
 
-#### AlumneFila1PC2:
+#### AlumneFila1PC2:Adrián Lloréns Mompó
+He creat la meva rama al clonar el directori, he posat el meu misatge nadalenc al eclipse , he pujat al directori remot els archius que he modificat, he cambiat el readme i ara es fara la pull request 
 
 
 #### AlumneFila1PC3:
