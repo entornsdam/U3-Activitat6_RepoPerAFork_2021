@@ -94,6 +94,12 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC2() {
+		System.out.println("====================================");
+		System.out.println("Hola, soc Adrian.LL alumne de ED");
+		System.out.println(" BON NADAL, I molta sort en el proxim any");
+		System.out.println(" FELIS 2021 !!!!!!");
+		System.out.println("====================================");
+		System.out.println();
 
 	}
 
