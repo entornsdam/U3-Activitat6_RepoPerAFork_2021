@@ -68,7 +68,8 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 #### AlumneFila3PC3:
-
+Jacob 
+"Feliz navidad y prospero año nuevo"
 
 #### AlumneFila3PC4:
 
