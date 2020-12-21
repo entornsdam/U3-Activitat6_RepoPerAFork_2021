@@ -57,7 +57,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 #### AlumneFila2PC5:
 
 
-#### AlumneFila2PC6:
+#### AlumneFila2PC6: Afegida Felicitació de cap d'any.
 
 
 
