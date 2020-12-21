@@ -107,11 +107,11 @@ public class MissatgesNadalencs {
 
 	private static void AlumneFila1PC5() {
 		private static void missatgeProfessor() {
-		System.out.println("====================================");
-		System.out.println("Hola, sóc EMPAR la professora de ED");
+		System.out.println("========================================");
+		System.out.println("Hola, sóc Francisca estudiant de 1er Dam");
 		System.out.println(" BON NADAL, Salut i Pau per a tots.");
 		System.out.println(" FELIÇ 2021 !!!!!!");
-		System.out.println("====================================");
+		System.out.println("========================================");
 		System.out.println();
 
 	}
