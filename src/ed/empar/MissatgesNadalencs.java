@@ -135,7 +135,8 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC6() {
-
+	System.out.println("Bon nadal de part de Miguel Sempere Brotons");
+		System.out.println();
 	}
 
 	// FILA 3
