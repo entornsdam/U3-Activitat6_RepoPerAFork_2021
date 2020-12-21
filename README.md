@@ -24,7 +24,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 ## POSA EL TEU NOM I EN LA SEGÜENT LÍNIA LA DESCRIPCIÓ
 
 
-#### AlumneFila1PC1: 
+#### AlumneFila1PC1: He afegit una felicitació de nadal i any nou 
 
 
 #### AlumneFila1PC2:
