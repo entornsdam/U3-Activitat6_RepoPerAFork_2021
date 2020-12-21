@@ -115,8 +115,7 @@ public class MissatgesNadalencs {
 
 	// FILA 2
 	private static void AlumneFila2PC1() {
-
-	}
+	
 
 	private static void AlumneFila2PC2() {
 
@@ -140,7 +139,7 @@ public class MissatgesNadalencs {
 
 	// FILA 3
 	private static void AlumneFila3PC1() {
-
+	
 	}
 
 	private static void AlumneFila3PC2() {
@@ -156,7 +155,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila3PC5() {
-
+    System.out.println("Alex Lopez España os desea una Feliz Navidad y feliz año 2021");
 	}
 
 	private static void AlumneFila3PC6() {
