@@ -74,7 +74,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 #### AlumneFila3PC5:
-
+He puesto el contenido de mi .java que mustra por pantalla una felicitacion Navideña y de Año nuevo
 
 #### AlumneFila3PC6:
 
