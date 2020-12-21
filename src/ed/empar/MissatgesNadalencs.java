@@ -90,7 +90,8 @@ public class MissatgesNadalencs {
 
 	// FILA 1
 	private static void AlumneFila1PC1() {
-
+		System.out.println("Bon nadal de part de Jose Luna i bon any nou");
+		System.out.println();
 	}
 
 	private static void AlumneFila1PC2() {
