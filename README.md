@@ -21,6 +21,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 ## A PARTIR D'ACÍ HAS DE DESCRIURE ELS CANVIS QUE HAS FET
+He modificado el documento para que de una felicitación navideña.
 ## POSA EL TEU NOM I EN LA SEGÜENT LÍNIA LA DESCRIPCIÓ
 
 
