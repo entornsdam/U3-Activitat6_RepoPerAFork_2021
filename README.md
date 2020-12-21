@@ -87,7 +87,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 #### AlumneFila4PC3:
-
+Alejandro Sanchez ha modificado el metodo para felicitar la navidad y el año
 
 #### AlumneFila4PC4:
 
