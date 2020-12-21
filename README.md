@@ -46,8 +46,8 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 #### AlumneFila2PC2:
-
-
+AlejandroRuiz
+He clonat el repositori a local, he modificat el archiu MissatgesNadalecs.java per afegir el meu missatge a la funció corresponent i he modificat el README
 #### AlumneFila2PC3:
 
 
