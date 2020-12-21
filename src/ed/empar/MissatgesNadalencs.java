@@ -119,7 +119,12 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC2() {
-
+		System.out.println("====================================");
+		System.out.println("Hola, sóc ALEJANDRO RUIZ alumne de ED");
+		System.out.println(" BON NADAL, molta sort i que tot millore");
+		System.out.println(" FELIÇ 2021 a tots !!!!!!");
+		System.out.println("====================================");
+		System.out.println();
 	}
 
 	private static void AlumneFila2PC3() {
