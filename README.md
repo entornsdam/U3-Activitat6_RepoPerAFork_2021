@@ -37,7 +37,12 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 #### AlumneFila1PC5:
+Francica Martinez Lara.
 
+He clonat una copia del repositori en local
+He creat una rama amb el meu nom
+He modificat el fitxer .java i l'he pujat al repositori local
+He modificat el Readme
 
 #### AlumneFila1PC6:
 
