@@ -57,7 +57,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 #### AlumneFila2PC5:
 
 
-#### AlumneFila2PC6: La mev atasca la he fet en aquesta linia. Ian
+#### AlumneFila2PC6: La meva tasca la he fet en aquesta linia. Ian
 
 
 
