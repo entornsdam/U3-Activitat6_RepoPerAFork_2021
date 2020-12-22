@@ -135,7 +135,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC6() {
-
+	System.out.println("Hola, soc Ian. Bon nadal a tots y un feliḉ any 2021")
 	}
 
 	// FILA 3
