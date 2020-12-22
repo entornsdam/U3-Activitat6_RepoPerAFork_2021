@@ -80,7 +80,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 
-#### AlumneFila4PC1:
+#### AlumneFila4PC1: Añadido mensaje de felicitación correspondiente en el archivo .java y actualizado registro en readme.
 
 
 #### AlumneFila4PC2:
