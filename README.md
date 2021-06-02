@@ -37,6 +37,8 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç 2021.  Pau i Salut p
 
 
 #### AlumneFila1PC5: Francisca Martinez
+.java Afegit missatge Nadalenc.
+Readme modificat
 
 
 #### AlumneFila1PC6:
